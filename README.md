@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishi_code" target="blank"><img src="https://img.shields.io/twitter/follow/rishi_code?logo=twitter&style=for-the-badge" alt="rishi_code" /></a> </p>
 
-<h4 align="left"><a href="https://rishirajcode.github.io/"><b> My-Linktree</b></a> </h4> <br>
+<h4 align="left"><a href="https://rishirajcode.github.io/links"><b> My-Linktree</b></a> </h4> <br>
 - 🔭 I’m currently working with **JAVA and Python**
 
 - 🌱 I’m currently learning **Frameworks, DSA, etc**
