@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" />  </p>
 
-<p align="left"> <a href="https://twitter.com/rishi_code" target="blank"><img src="https://img.shields.io/twitter/follow/rishi_code?logo=twitter&style=for-the-badge" alt="rishi_code" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishi_code?logo=twitter&style=for-the-badge" alt="rishi_code" /></a> </p>
 
 <h4 align="left"><a href="https://rishirajcode.github.io/links"><b> My-Linktree</b></a> </h4> <br>
 - 🔭 I’m currently working with **JAVA and Python**
@@ -12,7 +12,7 @@
 
 - 👨‍💻 My portfolio- [https://rishiraj.netlify.app/](https://rishiraj.netlify.app/)
 
-- 📝 I regularly write articles on [https://rishi-code.medium.com/](https://rishi-code.medium.com/)
+- 📝 I regularly write articles on [https://rishi-code.medium.com/](https://rishirajcode.medium.com/)
 
 - 💬 Ask me about **Projects, Consultations, etc**
 
