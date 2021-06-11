@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I think I'm funny😂.**
 
-- ↗ Let's Connect <a href="https://www.linkedin.com/in/rishi-code/">LinkedIn</a>
+- ↗ Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">LinkedIn</a>
 
 
 <!--
