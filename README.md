@@ -12,7 +12,7 @@
 
 - 👨‍💻 My portfolio- [https://rishiraj.netlify.app/](https://rishiraj.netlify.app/)
 
-- 📝 I regularly write articles on [https://rishi-code.medium.com/](https://rishirajcode.medium.com/)
+- 📝 I regularly write articles on [https://rishirajcode.medium.com/](https://rishirajcode.medium.com/)
 
 - 💬 Ask me about **Projects, Consultations, etc**
 
