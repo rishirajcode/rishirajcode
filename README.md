@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://rishirajcode.medium.com/](https://rishirajcode.medium.com/)
 
-- 💬 Ask me about **Projects, Consultations, etc**
+- 💬 Ask me about **Projects, Coffee, Mentorship, etc**
 
 - 📫 How to reach me **contactrishi.code@gmail.com**
 
