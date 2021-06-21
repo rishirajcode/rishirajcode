@@ -39,7 +39,7 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishirajcode&show_icons=true&locale=en&layout=compact" alt="rishiraj" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&locale=en" alt="rishiraj" /></p>
-
+<br>
 <img align="center" src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height="300" width="300">
 
 
