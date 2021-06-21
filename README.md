@@ -43,4 +43,4 @@
 
 <div align="center">
 	<img align="center" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3  align="center"><b>Lone programmer!</b> </h3>
-<img align="center" src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" height="50" width="200">
+								<!-- THEEND -->
