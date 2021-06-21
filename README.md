@@ -40,8 +40,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishirajcode&show_icons=true&locale=en&layout=compact" alt="rishiraj" /> 
-<br>
-<p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 </p>
 
