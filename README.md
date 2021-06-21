@@ -40,10 +40,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishirajcode&show_icons=true&locale=en&layout=compact" alt="rishiraj" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&locale=en" alt="rishiraj" /></p>
 
+var canvas = document.getElementById("canvas");
+var ctx = canvas.getContext("2d");
+var radius = canvas.height / 2;
+ctx.translate(radius, radius);
+radius = radius * 0.90
+//drawClock();
+setInterval(drawClock, 1000);
+
 <div align="center">
-	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-	<br>
-    	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
 </div>
 
