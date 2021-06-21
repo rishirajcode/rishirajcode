@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium**</a>
 
-- ⚡ Fun fact- **Sometimes Blogger, Photographer, Chef, Comedian, Optimist, Learner.⚡ and Procrastinator😴 But I talk a lot**
+- ⚡ Fun fact- ** Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴 But I talk a lot**
 
 - 💬 You can ask me about **Projects, Coffee, Mentorship, etc**
 <!-- 
