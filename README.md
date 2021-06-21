@@ -12,13 +12,13 @@
 
 - 👨‍💻 My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//)
 
-- 📝 I regularly write articles on <a herf="https://rishirajcode.medium.com/">**Medium**</a>
+- 📝 I regularly write articles on <a href="https://rishirajcode.medium.com/"> **Medium**</a>
 
-- ⚡ Fun fact- **Sometimes Blogger, Photographer, Chef, Comedian, Optimist, Learner.⚡ And Procrastinator😴**
+- ⚡ Fun fact- **Sometimes Blogger, Photographer, Chef, Comedian, Optimist, Learner.⚡ and Procrastinator😴**
 
 - 💬 You can ask me about **Projects, Coffee, Mentorship, etc**
 
-- ↗ Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br>
+- Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br>
 
 
 <!--
