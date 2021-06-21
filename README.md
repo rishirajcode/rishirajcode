@@ -40,6 +40,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishirajcode&show_icons=true&locale=en&layout=compact" alt="rishiraj" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&locale=en" alt="rishiraj" /></p>
 
-<img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="200" width="300">
+<img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="200" width="500">
 
 
