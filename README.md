@@ -18,8 +18,8 @@
 - ⚡ Fun fact- **Sometimes Blogger, Photographer, Chef, Comedian, Optimist, Learner.⚡ and Procrastinator😴**
 
 - 💬 You can ask me about **Projects, Coffee, Mentorship, etc**
-
-- Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br>
+<!-- 
+- Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:rvividha@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/rishirajcode/)](https://www.linkedin.com/in/rishirajcode/)
 <!--
@@ -40,4 +40,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishirajcode&show_icons=true&locale=en&layout=compact" alt="rishiraj" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&locale=en" alt="rishiraj" /></p>
 
-
+<p><h3>I Code alone</h3> <img align="right" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="300" width="300"></p>
