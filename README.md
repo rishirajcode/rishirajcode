@@ -20,7 +20,9 @@
 
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=olumidayy&show_icons=true)
 
+![Profile views](https://gpvc.arturio.dev/olumidayy)
 <!--
 
 <h3 align="left">Connect with me:</h3>
