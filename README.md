@@ -1,9 +1,8 @@
-<h1 align="center">### HEY visitor :wave:, I'm Rishi Raj</h1>
+<h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rishi Raj</h1>
 <h3 align="center">Computer Science Student, Web & Android Developer⚡</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" />  </p>
 
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=rishirajcode" alt="rishirajcode" /> <a href="https://twitter.com/rishirajcode"> <img src="https://img.shields.io/twitter/url/https/twitter.com/rishirajcode.svg?style=social&label=Follow%20%40rishirajcode" /> </a> </p> 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="300" width="300">
 
 <p align="center"> <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p>
