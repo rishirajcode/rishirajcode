@@ -22,7 +22,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true)
 
-
+![Profile views](https://gpvc.arturio.dev/rishirajcode)
 <!--
 
 <h3 align="left">Connect with me:</h3>
