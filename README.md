@@ -6,17 +6,15 @@
 <p align="left"> <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p>
 
 <h4 align="left"><a href="https://rishirajcode.github.io/links"><b> My-Linktree</b></a> </h4> <br>
-- 🔭 I’m currently working with **JAVA & Python**
+- 🔭 I’m currently working with JAVA☕ & Python🐍
 
 - 🌱 I’m currently learning **Frameworks, DSA, etc**
 
 - 👨‍💻 My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//)
 
-- 📝 I regularly write articles on <a herf = "https://rishirajcode.medium.com/">**Medium**</a> [https://rishirajcode.medium.com/](https://rishirajcode.medium.com/)
+- 📝 I regularly write articles on <a herf="https://rishirajcode.medium.com/">**Medium**</a>
 
 - 💬 Ask me about **Projects, Coffee, Mentorship, etc**
-
-- 📫 How to reach me **contactrishi.code@gmail.com**
 
 - ⚡ Fun fact **Sometimes Blogger, Photographer, Chef, Comedian, Optimist, Learner.⚡ And Procrastinator😴**
 
@@ -42,4 +40,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishirajcode&show_icons=true&locale=en&layout=compact" alt="rishiraj" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&locale=en" alt="rishiraj" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&locale=en" alt="rishiraj" /></p>
