@@ -22,6 +22,7 @@
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:rvividha@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/rishirajcode/)](https://www.linkedin.com/in/rishirajcode/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&&link=https://rishirajcode.medium.com/)](https://rishirajcode.medium.com/) 
 <!--
 
 <h3 align="left">Connect with me:</h3>
