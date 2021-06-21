@@ -41,5 +41,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishirajcode&show_icons=true&locale=en&layout=compact" alt="rishiraj" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&locale=en" alt="rishiraj" /></p>
 
 <div align="center">
-	<img align="center" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3  align="center">**Lone programmer! **</h3>
+	<img align="center" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3  align="center"><b>Lone programmer!</b> </h3>
 </div>
