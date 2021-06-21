@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p>
 
 <h4 align="left"><a href="https://rishirajcode.github.io/links"><b> My-Linktree</b></a> </h4> <br>
-- 🔭 I’m currently working with ** JAVA and Python **
+- 🔭 I’m currently working with **JAVA & Python**
 
 - 🌱 I’m currently learning **Frameworks, DSA, etc**
 
 - 👨‍💻 My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//)
 
-- 📝 I regularly write articles on [https://rishirajcode.medium.com/](https://rishirajcode.medium.com/)
+- 📝 I regularly write articles on <a herf = "https://rishirajcode.medium.com/">**Medium**</a> [https://rishirajcode.medium.com/](https://rishirajcode.medium.com/)
 
 - 💬 Ask me about **Projects, Coffee, Mentorship, etc**
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Sometimes Blogger, Photographer, Chef, Comedian, Optimist, Learner.⚡ And Procrastinator😴**
 
-- ↗ Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">** LinkedIn **</a>
+- ↗ Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a>
 
 
 <!--
