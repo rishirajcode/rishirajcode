@@ -12,7 +12,7 @@
 
 - 👨‍💻 My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//)
 
-- 📝 I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link= https://rishirajcode.medium.com/)](https://rishirajcode.medium.com/)
+- 📝 I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://rishirajcode.medium.com/)](https://rishirajcode.medium.com/)
 
 - ⚡ Fun fact- **Sometimes Blogger, Photographer, Chef, Comedian, Optimist, Learner.⚡ and Procrastinator😴**
 
