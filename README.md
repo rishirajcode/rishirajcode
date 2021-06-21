@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">Computer Science Student, Web & Android Developer⚡</h3>
-
+<img align="center" src="https://drive.google.com/file/d/1aPeUxIKKlA3gualbLmbqQ1Unrei8O90W/view?usp=sharing" height="300" width="300">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" />  </p>
 
 <p align="center"> <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p>
@@ -20,9 +20,6 @@
 
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true)
-
-![Profile views](https://gpvc.arturio.dev/rishirajcode)
 <!--
 
 <h3 align="left">Connect with me:</h3>
