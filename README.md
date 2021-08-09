@@ -20,8 +20,8 @@
 - 💬 You can ask me about **Projects, Coffee, Mentorship, etc**
 <!-- 
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:rvividha@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/rishirajcode/)](https://www.linkedin.com/in/rishirajcode/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:rvividha@gmail.com)<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/rishirajcode/)](https://www.linkedin.com/in/rishirajcode/)<br>
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&&link=https://rishirajcode.medium.com/)](https://rishirajcode.medium.com/) 
 <!--
 
