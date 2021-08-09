@@ -49,7 +49,7 @@
 <div align="center">
 	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
 	
-	<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<!-- 	<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> -->
 
 <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3 align="center"> Happy Coding! 💻😎</h3>
 	</div>
