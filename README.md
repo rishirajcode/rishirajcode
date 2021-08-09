@@ -50,4 +50,6 @@
 	</div>
 <div align="center">
 	<img align="center" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3  align="center"><b>Lone programmer!</b> </h3>
+	<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+	
 								<!-- THEEND -->
