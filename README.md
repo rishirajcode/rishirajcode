@@ -43,7 +43,7 @@
   <img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 </p>
 <div align="center">
-	([![GitHub Streak] http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode
+	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rishirajcode&hide_border=true&background=FFFFFF&border=FF0000&stroke=0623DD&ring=D7DD23)]
 </div>
 <div align="center">
 	<img align="center" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3  align="center"><b>Lone programmer!</b> </h3>
