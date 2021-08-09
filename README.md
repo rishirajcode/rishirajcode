@@ -48,8 +48,9 @@
 </p>
 <div align="center">
 	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
-	</div>
+	
 	<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
-<img align="center" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3 align="center"> Happy Coding! 💻😎</h3>
+<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3 align="center"> Happy Coding! 💻😎</h3>
+	</div>
 
