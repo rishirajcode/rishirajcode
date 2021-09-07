@@ -7,20 +7,20 @@
 
 <h3 align="left">About Me</h3>
 <h4 align="left"><a href="https://rishirajcode.github.io/links"><b> My-Linktree</b></a> </h4> <br>
-- 🔭 I’m currently working with JAVA☕ & Python🐍
+I’m currently working with JAVA☕ & Android
 
-- 🌱 I’m currently learning **Frameworks, DSA, etc**
+I’m currently learning **Frameworks, DSA, etc**
 
-- 👨‍💻 My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//)
+My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//)
 
-- 📝 I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium**</a>
+I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium**</a>
 
-- ⚡ Fun fact- ** Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴 But I talk a lot**
+Fun fact- ** Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴 But I talk a lot**
 
-- 💬 You can ask me about **Projects, Coffee, Mentorship, etc**
+You can ask me about **Projects, Coffee, etc**
 <!-- 
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:rvividha@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:contactrishi.code@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/rishirajcode/)](https://www.linkedin.com/in/rishirajcode/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&&link=https://rishirajcode.medium.com/)](https://rishirajcode.medium.com/) 
 <!--
