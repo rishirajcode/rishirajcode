@@ -7,17 +7,28 @@
 
 <h3 align="left">About Me</h3>
 <h4 align="left"><a href="https://rishirajcode.github.io/links"><b> My-Linktree</b></a> </h4> <br>
-I’m currently working with JAVA☕ & Android
+<p>
+I am a Computer Science Engineering Undergraduate Student. I love coding and exploring new things in the computer science field. I’m very much habituated by reading and writing about Technologies and Nutrition blogs regularly. I’m very much interested in Android development, web development, etc, and very much confident, naturally curious, and believe in smart working.
 
-I’m currently learning **Frameworks, DSA, etc**
+I’m currently working with JAVA☕ & Android and  learning Frameworks, DSA, etc <br>
 
-My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//)
 
-I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium**</a>
+My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//) <br>
 
-Fun fact- ** Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴 But I talk a lot**
 
-You can ask me about **Projects, Coffee, etc**
+I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium**
+
+</p>
+
+
+
+
+
+
+
+
+Fun fact- Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴 But I talk a lot
+You can ask me about Projects, Coffee, etc.
 <!-- 
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:contactrishi.code@gmail.com)
