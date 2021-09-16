@@ -18,6 +18,11 @@ My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//
 
 I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium**
 
+
+
+Fun fact- Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴 But I talk a lot
+You can ask me about Projects, Coffee, etc.	
+	
 </p>
 
 
@@ -26,9 +31,8 @@ I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medi
 
 
 
-
-Fun fact- Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴 But I talk a lot
-You can ask me about Projects, Coffee, etc.
+	
+	
 <!-- 
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:contactrishi.code@gmail.com)
