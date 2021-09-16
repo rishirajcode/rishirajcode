@@ -16,11 +16,11 @@ I’m currently working with JAVA☕ & Android and  learning Frameworks, DSA, et
 My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//) <br>
 
 
-I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium** <br>
+I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium** </a> <br>
 
 
 
-Fun fact- Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴 But I talk a lot
+In a nutshell I'm a Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴  I talk a lot
 You can ask me about Projects, Coffee, etc.	
 	
 </p>
