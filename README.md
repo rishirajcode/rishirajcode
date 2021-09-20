@@ -1,4 +1,4 @@
-< <h1 align= "center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rishi Raj</h1>
+<h1 align= "center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rishi Raj</h1>
 <h3 align="center">Computer Science Student, Web & Android Developer⚡</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" /> <br> <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p> 
@@ -34,7 +34,7 @@ You can ask me about Projects, Coffee, etc.
 	
 	
 
-- Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
+- Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:contactrishi.code@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/rishirajcode/)](https://www.linkedin.com/in/rishirajcode/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&&link=https://rishirajcode.medium.com/)](https://rishirajcode.medium.com/) 
