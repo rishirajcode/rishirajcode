@@ -60,9 +60,10 @@ You can ask me about Projects, Coffee, etc.
 <br>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
+	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
 </p>
 <div align="center">
-	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode"> <br>
+<!-- 	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode"> <br> -->
 	
 <!-- 	<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajcode&show_icons=true) ready to publish-->
