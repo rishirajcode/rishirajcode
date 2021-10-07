@@ -67,7 +67,7 @@ You can ask me about Projects, Coffee, etc.
 <!-- 	<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajcode&show_icons=true) ready to publish-->
 	
-	<img alt="Rishi Raj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rishirajcode&bg_color=fff&amp;color=#58a6ff&amp;line=&amp;point=FFFFFF&amp;hide_border=true%22" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=rishirajcode&bg_color=fff&amp;color=#58a6ff&amp;line=&amp;point=FFFFFF&amp;hide_border=true%22" style="max-width: 100%;">
+	<img alt="Rishi Raj Activity Graph"  data-canonical-src="https://activity-graph.herokuapp.com/graph?username=rishirajcode&bg_color=fff&amp;color=#58a6ff&amp;line=&amp;point=FFFFFF&amp;hide_border=true%22" style="max-width: 100%;">
 
 <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3 align="center"> Happy Coding! 💻😎</h3>
 	</div>
