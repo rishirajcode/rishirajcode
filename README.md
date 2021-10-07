@@ -80,10 +80,15 @@ You can ask me about Projects, Coffee, etc.
 </p>
 
 <h3 align = "center">
-	QUOTE-
+	Quotes-
 	</h3>
 <p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do not worry about the result, Just enjoy the process.</p>&mdash; Rishi (@rishirajcode) <a href="https://twitter.com/rishirajcode/status/1445464535079346179?ref_src=twsrc%5Etfw">October 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fix your Mindset and it will fix your Life.<br>Do not worry about the result, Just enjoy the process</p>&mdash; Rishi (@rishirajcode) 
+
+</blockquote> 
+
+
+
 
 
 </p>
