@@ -60,11 +60,12 @@ You can ask me about Projects, Coffee, etc.
 <br>
 <p align = "left">
 	<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> 
-	</p>
+	
 <p align= "right">
 	
   <img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 	<br> <img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
+</p>
 </p>
 <div align="center">
 <!-- 	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode"> <br> -->
