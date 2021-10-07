@@ -59,13 +59,13 @@ You can ask me about Projects, Coffee, etc.
 </div>
 <br>
 <h3 align="center">Stats and Graph📈  </h3>
+
 <p>
-<img align="left" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250">
 
 	
 <img align="right" src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs" >
-	<img align="right" src= "http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
-	<br>
+	<img align="left" src= "http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
+	
 
 </p>
 
@@ -79,6 +79,7 @@ You can ask me about Projects, Coffee, etc.
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajcode&show_icons=true) ready to publish-->
 <!-- </div>	 --> 
 
+<img align="left" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250">
 
 
 
