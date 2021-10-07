@@ -59,11 +59,11 @@ You can ask me about Projects, Coffee, etc.
 </div>
 <br>
 <p>
-	<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250" class="left">> 
+	<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250" class="left">
 
 	
-  <img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs" class="right">>
-	<br> <img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode" class="right">>
+  <img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs" class="right">
+	<br> <img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode" class="right">
 
 </p>
 <div align="center">
