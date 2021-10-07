@@ -65,14 +65,12 @@ You can ask me about Projects, Coffee, etc.
 	
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs" >
 	
-	<br>
-	<br>
-	
-	<img align="center" src= "http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
+<br>	
+<img align="center" src= "http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
 	
 <br>
-	<br>
-	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=rishirajcode&bg_color=fff&amp;color=#58a6ff&amp;line=&amp;point=FFFFFF&amp;hide_border=true%22">
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=rishirajcode&bg_color=fff&amp;color=#58a6ff&amp;line=&amp;point=FFFFFF&amp;hide_border=true%22">
 </p>
 
 
@@ -85,7 +83,7 @@ You can ask me about Projects, Coffee, etc.
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajcode&show_icons=true) ready to publish-->
 <!-- </div>	 --> 
 
-<img align="center" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250" <h3>HAPPY CODING✨</h3>>
+<img align="center" src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250" <h3>HAPPY CODING✨</h3>
 
 
 
