@@ -77,7 +77,7 @@ You can ask me about Projects, Coffee, etc.
 	
 <!-- 	<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajcode&show_icons=true) ready to publish-->
-<!-- </div>	 --> -->
+<!-- </div>	 --> 
 <img src="https://activity-graph.herokuapp.com/graph?username=rishirajcode&bg_color=fff&amp;color=#58a6ff&amp;line=&amp;point=FFFFFF&amp;hide_border=true%22">
 
 
