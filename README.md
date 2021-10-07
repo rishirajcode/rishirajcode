@@ -65,11 +65,7 @@ You can ask me about Projects, Coffee, etc.
 	<br>
 	
 <img align="right" src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs" >
-	<br>
-	<br>
-	<br>
-	
-	<img align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode" >
+	<img align="right" src= "http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
 </p>
 
 <!-- <div align="center">
