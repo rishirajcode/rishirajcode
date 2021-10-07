@@ -58,9 +58,10 @@ You can ask me about Projects, Coffee, etc.
 <img src ="https://github-profile-trophy.vercel.app/?username=rishirajcode&theme=flat">
 </div>
 <br>
-<p>
+<p align= "center">
+	
   <img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
-	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
+	<br> <img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
 </p>
 <div align="center">
 <!-- 	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode"> <br> -->
@@ -71,6 +72,6 @@ You can ask me about Projects, Coffee, etc.
 <img src="https://activity-graph.herokuapp.com/graph?username=rishirajcode&bg_color=fff&amp;color=#58a6ff&amp;line=&amp;point=FFFFFF&amp;hide_border=true%22">
 
 
-<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3 align="center"> Happy Coding! 💻😎</h3>
+
 	</div>
 
