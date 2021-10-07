@@ -59,7 +59,7 @@ You can ask me about Projects, Coffee, etc.
 </div>
 <br>
 <p align = "left">
-	<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> <br> <h3 align="center"> Happy Coding! 💻😎</h3>
+	<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250"> 
 	</p>
 <p align= "right">
 	
