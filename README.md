@@ -58,7 +58,7 @@ You can ask me about Projects, Coffee, etc.
 <img src ="https://github-profile-trophy.vercel.app/?username=rishirajcode&theme=flat">
 </div>
 <br>
-<p align="center">
+<p>
   <img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
 </p>
