@@ -69,6 +69,7 @@ You can ask me about Projects, Coffee, etc.
 <img src= "http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
 	
 <br>
+<br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rishirajcode&bg_color=fff&amp;color=#58a6ff&amp;line=&amp;point=FFFFFF&amp;hide_border=true%22">
 
@@ -78,7 +79,14 @@ You can ask me about Projects, Coffee, etc.
 <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250" >
 </p>
 
+<h3 align = "center">
+	QUOTE-
+	</h3>
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do not worry about the result, Just enjoy the process.</p>&mdash; Rishi (@rishirajcode) <a href="https://twitter.com/rishirajcode/status/1445464535079346179?ref_src=twsrc%5Etfw">October 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+</p>
 
 
 <!-- <div align="center">
@@ -87,7 +95,7 @@ You can ask me about Projects, Coffee, etc.
 <!-- 	<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajcode&show_icons=true) ready to publish-->
 <!-- </div>	 --> 
-<h3>HAPPY CODING✨</h3>
+
 
 
 
