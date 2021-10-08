@@ -76,13 +76,14 @@ You can ask me about Projects, Coffee, etc.
 <br>
 <br>
 	
-<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250" >
+
 </p>
 
 <h3 align = "center">
 	Quotes-
 	</h3>
 <p>
+ <img align="right" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="250" width="250" >
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fix your Mindset and it will fix your Life.<br>Do not worry about the result, Just enjoy the process</p>&mdash; <a href="https://twitter.com/rishirajcode">@rishirajcode</a> Rishi
 
 </blockquote> 
