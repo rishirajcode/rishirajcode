@@ -6,7 +6,7 @@
 
 
 <h3 align="left">About Me</h3>
-<h4 align="left"><a href="https://rishirajcode.github.io/links"><b> My-Linktree</b></a> </h4> <br>
+<h4 align="left"><a href="https://rishiraj.netlify.app/"><b> My-Linktree</b></a> </h4> <br>
 <p>
 I am a final year Computer Science Undergraduate Student. I love coding and exploring new things in the computer science field. I’m very much habituated by reading and writing about Technologies and Nutrition blogs regularly. I’m very much interested in Android development, web development, etc, and very much confident, naturally curious, and believe in smart working.
 
