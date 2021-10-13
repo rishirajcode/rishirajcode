@@ -80,7 +80,7 @@ You can ask me about Projects, Coffee, etc.
 </p>
 
 <h3 align = "center">
-	Quotes-
+	Quotes✏-
 	</h3>
 <p>
  <img align="left" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="100" width="100" >
