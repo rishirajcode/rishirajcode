@@ -57,7 +57,9 @@ You can ask me about Projects, Coffee, etc.
 <h3 align="center">Trophies😍😎</h3> <br>
 <img align="left" src ="https://github-profile-trophy.vercel.app/?username=rishirajcode&theme=flat">
 </div>
-</div>
+
+<br>
+
 <br>
 <h3 align="center">Stats and Graph📈  </h3>
 
