@@ -57,11 +57,11 @@ You can ask me about Projects, Coffee, etc.
 
 </p>
 <div align="left">
-<h3 align="left">Trophies�🏆</h3> <br>
+<h3 align="left">Trophies & Stats </h3> <br>
 <img src ="https://github-profile-trophy.vercel.app/?username=rishirajcode&theme=flat">
 </div>
 
-<h3 align="center">Stats and Graph📈  </h3>
+<!-- <h3 align="center">s and Graph📈  </h3> -->
 
 <p align = "left">
 
@@ -74,9 +74,6 @@ You can ask me about Projects, Coffee, etc.
 <br>
 <br>
 
-<br>
-<br>
-	
 
 </p>
 
