@@ -1,7 +1,8 @@
 <h1 align= "center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rishi Raj</h1>
 <h3 align="center">Computer Science Student, Web & Android Developer⚡</h3>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" /> <br> <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p>  -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" /> <br> 
+<!-- <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p>   -->
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="300" width="300">
 
 
@@ -83,13 +84,13 @@ You can ask me about Projects, Coffee, etc.
 	Quote✏
 	
 	
-	</h3>
+	
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fix your Mindset and it will fix your Life.&mdash; <a href="https://rishirajcode.in/">@rishirajcode</a>
 </blockquote> 
 <!--  <img align="center" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="100" width="100" > -->
 
 
-
+</h3>
 
 
 
