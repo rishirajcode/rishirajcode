@@ -1,16 +1,16 @@
 <h1 align= "center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rishi Raj</h1>
 <h3 align="center">Computer Science Student, Web & Android Developer⚡</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" /> <br> <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p> 
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" /> <br> <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p>  -->
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="300" width="300">
 
 
-<h3 align="left">About Me</h3>
-<h4 align="left"><a href="https://rishiraj.netlify.app/"><b> My-Linktree</b></a> </h4> <br>
+<!-- <h3 align="left">About Me</h3>
+<h4 align="left"><a href="https://rishiraj.netlify.app/"><b> My-Linktree</b></a> </h4> <br> -->
 <p>
-I am a final year Computer Science Undergraduate Student. I love coding and exploring new things in the computer science field. I’m very much habituated by reading and writing about Technologies and Nutrition blogs regularly. I’m very much interested in Android development, web development, etc, and very much confident, naturally curious, and believe in smart working.
+A software programmer who loves coding and exploring new things in the computer science field. I’m very much habituated by reading and writing about Technologies and Nutrition blogs regularly. I’m very much interested in Android development, web development, etc, and very much confident, naturally curious, and believe in smart working.
 
-I’m currently working with JAVA☕ & Android and  learning Frameworks, DSA, etc <br>
+I’m currently working with JAVA☕ and Flutter <br>
 
 
 My portfolio- [https://rishirajcode.in/](https://rishirajcode.in) <br>
@@ -78,11 +78,11 @@ You can ask me about Projects, Coffee, etc.
 </p>
 
 <h3 align = "center">
-	Quotes✏-
+	Quote✏-
 	</h3>
 <p>
- <img align="center" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="100" width="100" >
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fix your Mindset and it will fix your Life.&mdash; <a href="https://rishirajcode.in/">@rishirajcode</a> Rishi
+<!--  <img align="center" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="100" width="100" > -->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fix your Mindset and it will fix your Life.&mdash; <a href="https://rishirajcode.in/">@rishirajcode</a>
 </blockquote> 
 
 
