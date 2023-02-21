@@ -82,10 +82,10 @@ You can ask me about Projects, Coffee, etc.
 <h3 align = "left">
 	Quote✏
 	
-	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fix your Mindset and it will fix your Life.&mdash; <a href="https://rishirajcode.in/">@rishirajcode</a>
-</blockquote> 
+	
 	</h3>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fix your Mindset and it will fix your Life.&mdash; <a href="https://rishirajcode.in/">@rishirajcode</a>
+</blockquote> 
 <!--  <img align="center" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="100" width="100" > -->
 
 
