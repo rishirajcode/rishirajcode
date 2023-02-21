@@ -13,7 +13,7 @@ I am a final year Computer Science Undergraduate Student. I love coding and expl
 I’m currently working with JAVA☕ & Android and  learning Frameworks, DSA, etc <br>
 
 
-My portfolio- [https://rishirajcode.github.io/](https://rishirajcode.github.io//) <br>
+My portfolio- [https://rishirajcode.in/](https://rishirajcode.in) <br>
 
 
 I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium** </a> <br>
@@ -71,8 +71,6 @@ You can ask me about Projects, Coffee, etc.
 <br>
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=rishirajcode&bg_color=fff&amp;color=#58a6ff&amp;line=&amp;point=FFFFFF&amp;hide_border=true%22">
-
 <br>
 <br>
 	
@@ -83,9 +81,8 @@ You can ask me about Projects, Coffee, etc.
 	Quotes✏-
 	</h3>
 <p>
- <img align="left" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="100" width="100" >
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fix your Mindset and it will fix your Life.<br>Do not worry about the result, Just enjoy the process</p>&mdash; <a href="https://twitter.com/rishirajcode">@rishirajcode</a> Rishi
-
+ <img align="center" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="100" width="100" >
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fix your Mindset and it will fix your Life.&mdash; <a href="https://rishirajcode.in/">@rishirajcode</a> Rishi
 </blockquote> 
 
 
@@ -95,12 +92,6 @@ You can ask me about Projects, Coffee, etc.
 </p>
 
 
-<!-- <div align="center">
-<!-- 	<img src ="http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode"> <br> -->
-	
-<!-- 	<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajcode&show_icons=true) ready to publish-->
-<!-- </div>	 --> 
 
 
 
