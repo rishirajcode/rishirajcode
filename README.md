@@ -14,7 +14,7 @@ A software programmer who loves coding and exploring new things in the computer 
 I’m currently working with JAVA☕ and Flutter <br>
 
 
-My portfolio- [https://rishirajcode.in/](https://rishirajcode.in) <br>
+My Site - [https://rishirajcode.in/](https://rishirajcode.in) <br>
 
 
 I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium** </a> <br>
