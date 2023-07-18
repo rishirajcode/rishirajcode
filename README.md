@@ -67,10 +67,11 @@ You can ask me about Projects, Coffee, etc.
 
 	
 <img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs" >
-	
+
+<!--	
 <br>	
 <img src= "http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
-	
+ -->	
 <br>
 <br>
 
