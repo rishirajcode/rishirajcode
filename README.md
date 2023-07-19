@@ -21,7 +21,7 @@ I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medi
 
 
 
-In a nutshell I'm a Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴  I talk a lot
+In a nutshell, I'm a Blogger, Comedian, Optimist, Learner⚡. Procrastinator😴  I talk a lot
 You can ask me about Projects, Coffee, etc.	
 	
 </p>
