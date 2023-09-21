@@ -31,11 +31,6 @@ You can ask me about Projects, Coffee, etc.
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/rishirajcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rishirajcode" height="30" width="40" /></a>
-</p>
-	
 	
 
 <!-- - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
