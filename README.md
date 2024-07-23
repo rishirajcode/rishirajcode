@@ -73,7 +73,7 @@ I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medi
 <img src= "http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
  
 <br>
-<br>
+
 
 
 </p>
