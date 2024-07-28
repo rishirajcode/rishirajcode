@@ -9,10 +9,10 @@
 <!-- <h3 align="left">About Me</h3>
 <h4 align="left"><a href="https://rishiraj.netlify.app/"><b> My-Linktree</b></a> </h4> <br> -->
 <p>
-A software programmer who loves coding and exploring new things in the computer science field. I’m very much habituated by reading and writing about Technologies and Nutrition blogs regularly. I’m very much interested in Android development, web development, etc, and very confident, naturally curious, and believe in smart working.
-
-I’m currently working with JAVA☕ and Flutter <br>
-
+I am working as a software engineer level 1. I graduated in 2022 from Maulana Abul Kalam Azad University of Technology in Computer Science and Engineering. I love developing and exploring new things in computer science.
+ <br>
+Previously I worked as an intern at NIT Durgapur as an Android developer I worked closely with technologies, and I am adept at creating interactive visualizations using Power BI to communicate findings effectively. Together, let us explore ways to leverage the potential of data through connection and exploration! <br>
+I am open to opportunities for working on initiatives and responsibilities in data analytics roles.
 
 My Site - [https://rishirajcode.in/](https://rishirajcode.in) <br>
 
