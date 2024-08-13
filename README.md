@@ -14,7 +14,7 @@ I am working as a software engineer level. I graduated in 2022 from Maulana Abul
 Previously I worked as an intern at NIT Durgapur as an Android developer I worked closely with technologies, and I am adept at creating interactive visualizations using Power BI to communicate findings effectively. Together, let us explore ways to leverage the potential of data through connection and exploration! <br>
 I am open to opportunities for working on initiatives and responsibilities in data analytics roles.
 
-My Site - [https://rishirajcode.in/](https://rishirajcode.in) <br>
+My Site: [https://rishirajcode.in/](https://rishirajcode.in) <br>
 
 
 I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium** </a> <br>
