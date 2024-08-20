@@ -1,5 +1,5 @@
 <h1 align= "center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rishi Raj</h1>
-<h3 align="center">Software Engineer ⚡</h3>
+<h3 align="center">Analytics & BI | Programming ⚡</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" /> <br> 
 <!-- <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p>   -->
