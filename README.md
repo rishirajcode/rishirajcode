@@ -17,12 +17,7 @@ I am open to opportunities for working on initiatives and responsibilities in da
 My Site: [https://rishirajcode.in/](https://rishirajcode.in) <br>
 
 
-I regularly write articles on <a href="https://rishirajcode.medium.com//">**Medium** </a> <br>
 
-
-
-
-	
 </p>
 
 
