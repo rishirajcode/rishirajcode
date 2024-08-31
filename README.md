@@ -9,7 +9,7 @@
 <!-- <h3 align="left">About Me</h3>
 <h4 align="left"><a href="https://rishiraj.netlify.app/"><b> My-Linktree</b></a> </h4> <br> -->
 <p>
-I am working as a software engineer level. I graduated in 2022 from Maulana Abul Kalam Azad University of Technology in Computer Science and Engineering. I love developing and exploring new things in computer science.
+I am working as a software engineer, I graduated in 2022 from Maulana Abul Kalam Azad University of Technology in Computer Science and Engineering. I love developing and exploring new things in computer science.
  <br>
 Previously I worked as an intern at NIT Durgapur as an Android developer I worked closely with technologies, and I am adept at creating interactive visualizations using Power BI to communicate findings effectively. Together, let us explore ways to leverage the potential of data through connection and exploration! <br>
 I am open to opportunities for working on initiatives and responsibilities in data analytics roles.
