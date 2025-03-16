@@ -11,7 +11,7 @@
 <p>
 I am a software engineer. I graduated from Maulana Abul Kalam Azad University of Technology with a Computer Science and Engineering degree in 2022. I love developing and exploring new things in computer science.
  <br>
-Previously I worked as an intern at NIT Durgapur as an Android developer I worked closely with technologies, and I am adept at creating interactive visualizations using Power BI to communicate findings effectively. Together, let us explore ways to leverage the potential of data through connection and exploration! <br>
+Previously I worked as an intern at NIT Durgapur as an Android developer, I worked closely with technologies, and I am adept at creating interactive visualizations using Power BI to communicate findings effectively. Together, let us explore ways to leverage the potential of data through connection and exploration! <br>
 I am open to opportunities to work on initiatives and responsibilities in data analytics roles...
 
 My Site: [https://rishirajcode.in/](https://rishirajcode.in) <br>
