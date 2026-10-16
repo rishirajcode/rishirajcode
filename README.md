@@ -1,91 +1,147 @@
-<h1 align= "center">Hii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rishi</h1>
-<h3 align="center">Analytics & BI || Programming ⚡</h3>
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" /> <br> 
-<!-- <a href="https://twitter.com/rishirajcode" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajcode?logo=twitter&style=for-the-badge" alt="rishirajcode" /></a> </p>   -->
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="250" width="250">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=gradient&customColorList=6,11,20&text=Hi%2C%20I'm%20Rishi%20%F0%9F%91%8B&fontSize=58&fontAlignY=38&desc=Analytics%20%26%20BI%20%C2%B7%20Software%20Engineer&descAlignY=60&descSize=22&animation=fadeIn" alt="Rishi header banner" width="100%" />
 
+<a href="https://rishirajcode.in">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=640&height=50&lines=Software+Engineer+%F0%9F%92%BB;Analytics+%26+BI+with+Power+BI+%F0%9F%93%8A;Turning+data+into+decisions+%E2%9C%A8;Fix+your+mindset%2C+fix+your+life+%F0%9F%8C%B1" alt="Typing animation" />
+</a>
 
-<!-- <h3 align="left">About Me</h3>
-<h4 align="left"><a href="https://rishiraj.netlify.app/"><b> My-Linktree</b></a> </h4> <br> -->
-<p>
-I am a software engineer. I graduated from Maulana Abul Kalam Azad University of Technology with a Computer Science and Engineering degree in 2022. I love developing and exploring new things in computer science domain.
- <br>
-Previously I worked as an intern at NIT Durgapur as an Android developer, I worked closely with technologies, and I am adept at creating interactive visualizations using Power BI to communicate findings effectively. Together, let us explore ways to leverage the potential of data through connection and exploration! <br>
-I am open to opportunities to work on initiatives and responsibilities in data analytics roles.
+<br/>
 
-My Site: [https://rishirajcode.in/](https://rishirajcode.in) <br>
+<a href="https://rishirajcode.in"><img src="https://img.shields.io/badge/Website-rishirajcode.in-ff5f6d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/rishirajcode/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://rishirajcode.medium.com/"><img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:contactrishi.code@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=ff5f6d&style=flat-square" alt="Profile views" />
 
-</p>
-
-
-
-
-
-
-	
-
-<!-- - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrishi.code@gmail.com)](mailto:contactrishi.code@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/rishirajcode/)](https://www.linkedin.com/in/rishirajcode/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&&link=https://rishirajcode.medium.com/)](https://rishirajcode.medium.com/) 
-<!--
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rishi_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="rishi_code" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishi-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="rishi-code" height="30" width="40" /></a>
-<a href="https://instagram.com/@rishiraj.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="@rishiraj.20" height="30" width="40" /></a>
-<a href="https://medium.com/@rishi-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@rishi-code" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishi_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="rishi_code" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishi-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="rishi-code" height="30" width="40" /></a>
-</p>
--->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-
-</p>
-
-<!--
-<div align="left">
-<h3 align="left">Trophies & Stats: </h3>
-<img src ="https://github-profile-trophy.vercel.app/?username=rishirajcode&theme=flat">
 </div>
--->
-<!-- <h3 align="center">s and Graph📈  </h3> -->
 
-<p align = "left">
+<br/>
 
+<!-- ============ ABOUT ============ -->
 
-<!--	
-<img src ="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs" >
+## 👋 About Me
 
--->
-<br>	
-<img src= "http://github-readme-streak-stats.herokuapp.com/?user=rishirajcode">
- 
-<br>
+I'm a **software engineer** with a Computer Science & Engineering degree from **Maulana Abul Kalam Azad University of Technology** (2022). I love exploring new corners of computer science, and these days I spend most of my time turning messy data into clear stories with **Power BI**, **SQL** and **DAX**.
 
+|  |  |
+|---|---|
+| 🎓 **Education** | B.Tech in Computer Science & Engineering, MAKAUT (2022) |
+| 💼 **Experience** | Android Developer Intern at **NIT Durgapur** |
+| 📊 **What I do** | Interactive dashboards, data analysis and BI storytelling |
+| 🔭 **Looking for** | Data analytics roles and meaningful initiatives to work on |
+| ✍️ **I write about** | Data projects, cloud, emerging tech and career guidance on Medium |
 
+<br/>
 
+<!-- ============ TECH STACK ============ -->
+
+## 🛠️ Tech Stack
+
+**📊 Data & Analytics**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,mysql,python,tensorflow&perline=8" alt="Data and analytics tools" />
 </p>
 
-<h4 align = "left">
-	 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Quote✏ Fix your Mindset, and it will fix your Life!!&mdash; <a href="https://rishirajcode.in/">@rishirajcode</a>
-</blockquote> 
-<!--  <img align="center" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" height="100" width="100" > -->
+**💻 Programming & Development**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,python,dart,ts,android,firebase,html,css,bootstrap&perline=10" alt="Programming languages and frameworks" />
+</p>
 
-</h4>
+**🧰 Tools**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux&perline=8" alt="Developer tools" />
+</p>
 
+<br/>
 
+<!-- ============ PROJECTS ============ -->
 
+## 🚀 Featured Projects
 
+| Project | What it's about | |
+|---|---|---|
+| 🚢 [**Northwind Traders KPI Dashboard**](https://github.com/rishirajcode/import-export-data-analysis) | Executive KPI dashboard for a global import/export company covering sales trends, product performance, key customers and shipping costs. | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-ff5f6d?style=flat-square) |
+| ☕ [**Maven Coffee Challenge**](https://github.com/rishirajcode/maven-coffee-challenge) | A data-driven strategy for opening a first coffee shop, built from "The Great American Coffee Taste Test" survey: audience, product offering and pricing. | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| 🛒 [**Blinkit BI Dashboard**](https://github.com/rishirajcode/Blinkit--BI-Dashboard) | Business intelligence dashboard built around Blinkit sales data. | ![BI](https://img.shields.io/badge/Dashboard-6a11cb?style=flat-square) |
+| 🎬 [**Netflix Data Analysis**](https://github.com/rishirajcode/Netflix_Data_Analysis) | Exploratory analysis of Netflix content data. | ![Analysis](https://img.shields.io/badge/Data_Analysis-2575fc?style=flat-square) |
+| 🏥 [**Healthcare Data Analysis**](https://github.com/rishirajcode/Healthcare-data-analysis) | Analysis of healthcare data to surface patterns and insights. | ![Analysis](https://img.shields.io/badge/Data_Analysis-2575fc?style=flat-square) |
+| ✅ [**Habit Sync**](https://github.com/rishirajcode/Habit-Sync) | A habit-tracking app project. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🤖 [**Custom GPT**](https://github.com/rishirajcode/custom-gpt) | Experiments with building a custom GPT-style assistant. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
+<details>
+<summary><b>📂 More projects &amp; resources</b></summary>
 
+<br/>
 
+- 🚗 [Automobile India Market Report](https://github.com/rishirajcode/Automobile-Indin-Market-Report)
+- 🛡️ [Insurance Data Analysis](https://github.com/rishirajcode/Insurance-data-analysis)
+- 🛍️ [General Ecommerce Sales](https://github.com/rishirajcode/General-Ecommerce-Sales)
+- 🍽️ [Restaurant & Consumer Analysis](https://github.com/rishirajcode/Restaurant-and-Consumer-Analysis)
+- 📈 [CRM Quarterly Sales](https://github.com/rishirajcode/CRM-quarterly-sales-)
+- 🎓 [IBM Data Analyst Capstone Project](https://github.com/rishirajcode/IBM-Data-Analyst-Capstone-Project)
+- 🗄️ [MySQL DBA](https://github.com/rishirajcode/MySQL-DBA) · [SQL Server Q&A](https://github.com/rishirajcode/SQL-Server-QnA)
+- 📚 [Resources](https://github.com/rishirajcode/Resources): a PDF roadmap for learning Java, C++ and Python
+- 🎯 [Dart](https://github.com/rishirajcode/Dart) · [softwarevantage](https://github.com/rishirajcode/softwarevantage)
 
+</details>
+
+<br/>
+
+<!-- ============ MEDIUM ============ -->
+
+## ✍️ Latest from my Medium
+
+<!-- BLOG-POST-LIST:START -->
+- [Traders Data Analysis — Maven Northwind Challenge](https://rishirajcode.medium.com/traders-data-analysis-maven-northwind-challenge-7ea7b7cb2d7b) — Jul 2024
+- [Maven Coffee Challenge — A data-driven strategy for opening the first coffee shop](https://rishirajcode.medium.com/maven-coffee-challenge-a-data-driven-strategy-for-opening-the-first-coffee-shop-f89f32d6e73b) — Jul 2024
+- [5G Network: The Future of Communication](https://rishirajcode.medium.com/5g-network-the-future-of-communication-368b046c81b2) — Mar 2023
+- [Road Map for Completing Data Structures and Algorithms in 100 days](https://rishirajcode.medium.com/road-map-for-completing-data-structures-and-algorithms-in-100-days-4ce5548a07e0) — Mar 2023
+- [AWS vs Azure vs Google Cloud](https://rishirajcode.medium.com/aws-vs-azure-vs-google-cloud-586c12610169) — Dec 2022
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <a href="https://rishirajcode.medium.com/"><img src="https://img.shields.io/badge/Read_more_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read more on Medium" /></a>
+</div>
+
+<br/>
+
+<!-- ============ STATS ============ -->
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishirajcode&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajcode&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=rishirajcode&theme=radical&hide_border=true" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<!-- ============ FOOTER ============ -->
+
+<div align="center">
+
+### 💬 Let's connect
+
+Always happy to chat about data, dashboards, code or career guidance.
+
+<a href="https://www.linkedin.com/in/rishirajcode/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://rishirajcode.medium.com/"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:contactrishi.code@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/>
+
+*"Fix your mindset, and it will fix your life!"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" alt="Footer wave" width="100%" />
+
+</div>
