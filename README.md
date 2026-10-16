@@ -34,7 +34,7 @@ Beyond my day job, I like exploring new corners of computer science (I've also w
 
 ### 💼 Experience
 
-**Software Engineer, Data & Analytics** · *Protected Harbor, Kozhikode* · `Feb 2022 – Present`
+**Software Engineer, Data & Analytics** · `Feb 2022 – Present`
 
 I work end to end on data and analytics projects: gathering requirements, validating and cleaning data, building ETL pipelines, running analysis in Python, and delivering Power BI dashboards that give teams real-time visibility into their KPIs. I collaborate closely with stakeholders and cross-functional teams, and I've also helped build and test a cross-platform application used by around 2,000 users.
 
@@ -44,20 +44,14 @@ I work end to end on data and analytics projects: gathering requirements, valida
 
 ### 🎓 Education & Certifications
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>🎓 B.Tech, Computer Science & Engineering</b><br/>
-      Dr. B.C. Roy Engineering College (MAKAUT)
-    </td>
-    <td valign="top" width="50%">
-      <b>📜 IBM Data Analyst Professional Certificate</b><br/>
-      Coursera<br/><br/>
-      <b>📜 Microsoft Power BI Desktop for Business Intelligence</b><br/>
-      Udemy
-    </td>
-  </tr>
-</table>
+**🎓 B.Tech, Computer Science & Engineering**<br/>
+Dr. B.C. Roy Engineering College (MAKAUT)
+
+**📜 IBM Data Analyst Professional Certificate**<br/>
+Coursera
+
+**📜 Microsoft Power BI Desktop for Business Intelligence**<br/>
+Udemy
 
 <br/>
 
