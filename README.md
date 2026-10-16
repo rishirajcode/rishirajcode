@@ -26,19 +26,18 @@
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="200" width="200" alt="Animated GIF">
 
-Hey, I'm **Rishi**, a **Software Engineer in Data & Analytics**. I turn raw, messy data into dashboards and reports that people actually use, working with **SQL, Power BI, DAX, Python and ETL pipelines**. My work covers the full loop: requirement gathering, data validation, ETL, reporting and dashboard development.
+Hey, I'm **Rishi**, a **Software Engineer in Data & Analytics**. I turn raw, messy data into dashboards and reports that people actually use, working with **SQL, Power BI, DAX, Python, and ETL pipelines**.  
 
-Beyond dashboards, I enjoy building with other tech too: Android (including an internship at NIT Durgapur), cross-platform apps with PHP, JavaScript and MySQL, and side projects in TypeScript and Python. I also write about data projects, cloud and career lessons on Medium, and I'm open to data analytics roles and initiatives where good data drives good decisions.
+Beyond dashboards, I enjoy building with other tech too: Android (including an internship at NIT Durgapur), cross-platform apps with PHP, JavaScript, and MySQL, and side projects in TypeScript and Python. I also write about data projects, cloud, and career lessons on Medium, and I'm open to data analytics roles and initiatives where good data drives good decisions.
 
 <br clear="right"/>
 
 ### 💼 Experience
 
-**Software Engineer, Data & Analytics** · `Feb 2022 – Present`
+**Software Engineer** · `Feb 2022 – Present`
 
-I work end to end on data and analytics projects: gathering requirements, validating and cleaning data, building ETL pipelines, running analysis in Python, and delivering Power BI dashboards that give teams real-time visibility into their KPIs. I collaborate closely with stakeholders and cross-functional teams, and I've also helped build and test a cross-platform application used by around 2,000 users.
+I work end-to-end on data and analytics projects: gathering requirements, validating and cleaning data, building ETL pipelines, running analysis in Python, and delivering Power BI dashboards that give teams real-time visibility into their KPIs. I collaborate closely with stakeholders and cross-functional teams, and I've also contributed to building a cross-platform application used by around 2,000 users. 
 
-My dashboards track things like ticket trends, SLA metrics and product performance using SQL and DAX, while data quality checks and root-cause analysis help cut down errors and inconsistencies. With Python (Pandas and NumPy) I dig into trends, anomalies and performance gaps, and on the application side I wrote structured test cases that reduced testing effort by 25% and provided client training.
 
 <br/>
 
