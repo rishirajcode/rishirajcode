@@ -1,11 +1,9 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=gradient&customColorList=6,11,20&text=Hi%2C%20I'm%20Rishi%20%F0%9F%91%8B&fontSize=58&fontAlignY=38&desc=Analytics%20%26%20BI%20%C2%B7%20Software%20Engineer&descAlignY=60&descSize=22&animation=fadeIn" alt="Rishi header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%2C%20I%20am%20Rishi&fontSize=56&fontAlignY=38" alt="Hi, I am Rishi" width="100%" />
 
-<a href="https://rishirajcode.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=640&height=50&lines=Software+Engineer+%F0%9F%92%BB;Analytics+%26+BI+with+Power+BI+%F0%9F%93%8A;Turning+data+into+decisions+%E2%9C%A8;Fix+your+mindset%2C+fix+your+life+%F0%9F%8C%B1" alt="Typing animation" />
-</a>
+<h3>Software Engineer || Analytics and BI</h3>
 
 <br/>
 
@@ -26,7 +24,11 @@
 
 ## 👋 About Me
 
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="200" width="200" alt="Animated GIF">
+
 I'm a **software engineer** with a Computer Science & Engineering degree from **Maulana Abul Kalam Azad University of Technology** (2022). I love exploring new corners of computer science, and these days I spend most of my time turning messy data into clear stories with **Power BI**, **SQL** and **DAX**.
+
+<br clear="right"/>
 
 |  |  |
 |---|---|
