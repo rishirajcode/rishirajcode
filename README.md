@@ -36,12 +36,7 @@ Beyond my day job, I like exploring new corners of computer science (I've also w
 
 **Software Engineer, Data & Analytics** · *Protected Harbor, Kozhikode* · `Feb 2022 – Present`
 
-- 📊 Designed and maintained **Power BI KPI dashboards** using SQL and DAX, giving teams real-time views of ticket trends, SLA metrics and product performance.
-- 🔄 Built and optimized **ETL pipelines** that bring multiple data sources together for near real-time operational and marketing insights.
-- 🧹 Ran data cleaning, quality checks and root-cause analysis to reduce data errors and inconsistencies.
-- 🐍 Used **Python (Pandas, NumPy)** for EDA, statistical and ad-hoc analysis to spot trends, anomalies and performance gaps.
-- 🤝 Worked with cross-functional teams and stakeholders to turn business requirements into actionable insights and dashboards.
-- 🧪 Helped develop and test a cross-platform app (**PHP, JavaScript, MySQL**) serving 2,000 users and 600+ daily operations, provided client training, and cut testing effort by 25% with structured test cases.
+I work end to end on data and analytics projects: gathering requirements, validating and cleaning data, building ETL pipelines, running analysis in Python, and delivering Power BI dashboards that give teams real-time visibility into their KPIs. I collaborate closely with stakeholders and cross-functional teams, and I've also helped build and test a cross-platform application used by around 2,000 users.
 
 **Android Developer Intern** · *NIT Durgapur*
 
@@ -53,8 +48,7 @@ Beyond my day job, I like exploring new corners of computer science (I've also w
   <tr>
     <td valign="top" width="50%">
       <b>🎓 B.Tech, Computer Science & Engineering</b><br/>
-      Dr. B.C. Roy Engineering College (MAKAUT)<br/>
-      <code>2018 – 2022</code> · CGPA <b>8.47 / 10</b>
+      Dr. B.C. Roy Engineering College (MAKAUT)
     </td>
     <td valign="top" width="50%">
       <b>📜 IBM Data Analyst Professional Certificate</b><br/>
@@ -67,12 +61,6 @@ Beyond my day job, I like exploring new corners of computer science (I've also w
 
 <br/>
 
-### 🧠 Core Skills
-
-`Business Intelligence` `Data Analysis` `Data Cleaning & Validation` `Dashboard Design` `DAX` `ETL Pipelines` `Requirement Gathering` `Reporting` `Statistical Analysis` `Ad-hoc Analysis` `A/B Testing` `Debugging`
-
-<br/>
-
 <!-- ============ TECH STACK ============ -->
 
 ## 🛠️ Tech Stack
@@ -80,13 +68,23 @@ Beyond my day job, I like exploring new corners of computer science (I've also w
 **📊 Data & Analytics**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi,mysql,python,tensorflow&perline=8" alt="Data and analytics tools" />
+  <img src="https://skillicons.dev/icons?i=powerbi,mysql,python,pandas,numpy,tensorflow&perline=8" alt="Data and analytics tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI_Service-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI Service" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Excel_%26_Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel and Power Query" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
 </p>
 
 **💻 Programming & Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,php,dart,ts,android,firebase,html,css,bootstrap&perline=11" alt="Programming languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,php,js,ts,dart,android,firebase,html,css,bootstrap&perline=12" alt="Programming languages and frameworks" />
 </p>
 
 **🧰 Tools**
