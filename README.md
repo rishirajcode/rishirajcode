@@ -26,17 +26,50 @@
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="200" width="200" alt="Animated GIF">
 
-I'm a **software engineer** with a Computer Science & Engineering degree from **Maulana Abul Kalam Azad University of Technology** (2022). I love exploring new corners of computer science, and these days I spend most of my time turning messy data into clear stories with **Power BI**, **SQL** and **DAX**.
+Hey, I'm **Rishi**, a **Software Engineer in Data & Analytics**. Since 2022 I've been turning raw, messy data into dashboards and reports that people actually use, working with **SQL, Power BI, DAX, Python and ETL pipelines**. My work covers the full loop: requirement gathering, data validation, ETL, reporting and dashboard development.
+
+Beyond my day job, I like exploring new corners of computer science (I've also worked as an Android developer intern at NIT Durgapur) and I write about data projects, cloud and career lessons on Medium. I'm open to data analytics roles and initiatives where good data drives good decisions.
 
 <br clear="right"/>
 
-|  |  |
-|---|---|
-| 🎓 **Education** | B.Tech in Computer Science & Engineering, MAKAUT (2022) |
-| 💼 **Experience** | Android Developer Intern at **NIT Durgapur** |
-| 📊 **What I do** | Interactive dashboards, data analysis and BI storytelling |
-| 🔭 **Looking for** | Data analytics roles and meaningful initiatives to work on |
-| ✍️ **I write about** | Data projects, cloud, emerging tech and career guidance on Medium |
+### 💼 Experience
+
+**Software Engineer, Data & Analytics** · *Protected Harbor, Kozhikode* · `Feb 2022 – Present`
+
+- 📊 Designed and maintained **Power BI KPI dashboards** using SQL and DAX, giving teams real-time views of ticket trends, SLA metrics and product performance.
+- 🔄 Built and optimized **ETL pipelines** that bring multiple data sources together for near real-time operational and marketing insights.
+- 🧹 Ran data cleaning, quality checks and root-cause analysis to reduce data errors and inconsistencies.
+- 🐍 Used **Python (Pandas, NumPy)** for EDA, statistical and ad-hoc analysis to spot trends, anomalies and performance gaps.
+- 🤝 Worked with cross-functional teams and stakeholders to turn business requirements into actionable insights and dashboards.
+- 🧪 Helped develop and test a cross-platform app (**PHP, JavaScript, MySQL**) serving 2,000 users and 600+ daily operations, provided client training, and cut testing effort by 25% with structured test cases.
+
+**Android Developer Intern** · *NIT Durgapur*
+
+<br/>
+
+### 🎓 Education & Certifications
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🎓 B.Tech, Computer Science & Engineering</b><br/>
+      Dr. B.C. Roy Engineering College (MAKAUT)<br/>
+      <code>2018 – 2022</code> · CGPA <b>8.47 / 10</b>
+    </td>
+    <td valign="top" width="50%">
+      <b>📜 IBM Data Analyst Professional Certificate</b><br/>
+      Coursera<br/><br/>
+      <b>📜 Microsoft Power BI Desktop for Business Intelligence</b><br/>
+      Udemy
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🧠 Core Skills
+
+`Business Intelligence` `Data Analysis` `Data Cleaning & Validation` `Dashboard Design` `DAX` `ETL Pipelines` `Requirement Gathering` `Reporting` `Statistical Analysis` `Ad-hoc Analysis` `A/B Testing` `Debugging`
 
 <br/>
 
@@ -53,13 +86,13 @@ I'm a **software engineer** with a Computer Science & Engineering degree from **
 **💻 Programming & Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,dart,ts,android,firebase,html,css,bootstrap&perline=10" alt="Programming languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,php,dart,ts,android,firebase,html,css,bootstrap&perline=11" alt="Programming languages and frameworks" />
 </p>
 
 **🧰 Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux&perline=8" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,linux&perline=8" alt="Developer tools" />
 </p>
 
 <br/>
